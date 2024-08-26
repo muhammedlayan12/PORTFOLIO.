@@ -206,7 +206,7 @@ span{
     aspect-ratio: 1;
     /* position: absolute; */
     border-radius: 50%;
-    background-image: url("2222.jpg");
+    background-image: url("img.jpg");
     background-size: 100%;
     background-repeat: no-repeat;
     border: 5px solid var(--main-color);
